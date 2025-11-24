@@ -1,0 +1,28 @@
+/* .landing_bg{
+    background-image: url('https://t3.ftcdn.net/jpg/05/07/91/92/360_F_507919292_Hnf53uboaZbdWp8Baw5zYM8s03MlT2Zp.jpg');
+    width: 300px;
+    height: 300px;
+    border-radius: 20%;
+    /* background-repeat: no-repeat;
+    background-size: contain; */
+/* } 
+/* .landing_bg2{
+    background-image: url('https://media.istockphoto.com/id/1384257150/photo/stylish-compositon-of-modern-living-room-interior-with-frotte-armchair-wooden-commode-side.jpg?s=612x612&w=0&k=20&c=oYzzcYlPTEvDijxTd9CPMlRT6pIRlXTBU7VIJKsF4m8=');
+    width: 400px;
+    height: 400px;
+     border-radius: 20%;
+}
+.landing_bg3{
+    background-image: url('https://thumbs.dreamstime.com/b/green-wall-background-minimalist-sofa-featuring-marble-pattern-wooden-finish-sits-grey-carpet-adorned-poster-lamp-364410973.jpg');
+    width: 400px;
+    height: 400px;
+     border-radius: 20%;
+} */ 
+
+.gallery_font{
+    font-family: "Libertinus Keyboard";
+}
+.decor_font{
+    font-family: "Lobster Two",sans-serif;
+    font-style: italic;
+}
